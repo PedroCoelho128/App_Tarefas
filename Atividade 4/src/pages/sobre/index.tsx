@@ -5,7 +5,7 @@ export default function Sobre(){
         <>
         <h1>Sobre</h1>
         <p>
-            Um projeto desenvolvido por Pedro Coelho
+            Um projeto desenvolvido por Pedro Coelho, aluno de Analise e Desenvolvimento de Sistemas!
         </p>
         <hr/>
         <Link to='/'>Página inicial</Link><br/>
